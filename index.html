@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <title>Nike</title>
+</head>
+
+<body>
+
+    <!-- -------- HEADER -------- -->
+    <header class="header">
+        <img src="img/logo.png" class="img-logo" alt="Logo da Nike">
+    </header>
+
+    <!-- -------- MAIN -------- -->
+    <main>
+
+        <!-- SEÇÃO PRINCIPAL COM TEXTO + IMAGEM -->
+        <section class="caixa-principal">
+
+            <div class="caixa-texto">
+                <h1>Nike Air Zoom</h1>
+                <p>
+                    Uma passada elástica para qualquer corrida. A sensação familiar e perfeita do Peg retorna para
+                    ajudá-lo a atingir seus objetivos. Esta versão tem a mesma capacidade de resposta e suporte neutro
+                    que você adora, mas com melhor conforto nas áreas sensíveis do seu pé, como o arco e os dedos.
+                </p>
+
+                <h4><u>R$ 799,00</u></h4>
+            </div>
+
+            <div class="caixa-img">
+                <img src="img/nike1.png" class="img-tenis" alt="Tênis Nike Air Zoom">
+            </div>
+
+        </section>
+
+        <!-- SEÇÃO DOS BOTÕES DE CORES -->
+        <section class="caixa-botoes">
+            <div onclick="mudarVisual('#ccee66', 'img/nike1.png')" class="botoes verde"></div>
+            <div onclick="mudarVisual('#ff9eb5', 'img/nike3.png')" class="botoes rosa"></div>
+            <div onclick="mudarVisual('#58cced', 'img/nike2.png')" class="botoes azul"></div>
+        </section>
+
+        <!-- BOTÃO DO CARRINHO -->
+        <section class="sec-carrinho">
+            <button class="carrinho">Adicionar ao Carrinho</button>
+        </section>
+
+    </main>
+
+    <!-- -------- FOOTER -------- -->
+    <footer class="footer">
+        <p>© 2025 Nike Store — Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+
+</body>
+
+</html>
