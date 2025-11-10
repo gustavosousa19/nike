@@ -5,8 +5,7 @@ Este é um dos meus projetos front-end, focado em criar uma landing page moderna
 <br>
 
 <h2>🖼️ Preview do Projeto</h2>
-<img src="SEU-LINK-DA-IMAGEM-AQUI" width="450">
-<img src="SEU-SEGUNDO-LINK-DA-IMAGEM-AQUI" width="450">
+<img src="Captura de tela 2025-11-10 195630.png" width="450">
 
 <br>
 
