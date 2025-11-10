@@ -5,7 +5,7 @@ Este é um dos meus projetos front-end, focado em criar uma landing page moderna
 <br>
 
 <h2>🖼️ Preview do Projeto</h2>
-<img src="Captura de tela 2025-11-10 195630.png" width="450">
+<img src="https://raw.githubusercontent.com/gustavosousa19/Nike/main/principal/imagem/Captura%20de%20tela%202025-11-10%2019-56-30.png" width="450">
 
 <br>
 
