@@ -1,52 +1,41 @@
-🏃‍♂️ Nike Air Zoom — Landing Page Interativa
+<h1>Nike Air Zoom — Landing Page</h1>
+<p>Bem-vindo ao meu projeto! 👟✨  
+Este é um dos meus projetos front-end, focado em criar uma landing page moderna, interativa e inspirada no estilo da Nike.</p>
 
-Uma landing page moderna inspirada no design da Nike, desenvolvida com HTML, CSS e JavaScript.
-O projeto exibe um tênis em destaque e permite ao usuário trocar as cores do produto em tempo real, com animações suaves e mudança dinâmica de visual.
+<br>
 
-✅ Features
+<h2>🖼️ Preview do Projeto</h2>
+<img src="SEU-LINK-DA-IMAGEM-AQUI" width="450">
+<img src="SEU-SEGUNDO-LINK-DA-IMAGEM-AQUI" width="450">
 
-Troca de cores do produto com animação
+<br>
 
-Layout responsivo
+<h2>🔥 Tecnologias Utilizadas:</h2>
+<p>✅ HTML5</p>
+<p>✅ CSS3</p>
+<p>✅ JavaScript</p>
 
-Estrutura semântica com header, main e sections
+<br>
 
-Estilos diferentes de interface (Minimalista, Colorido e Dark Mode)
+<h2>🎯 Funcionalidades:</h2>
+<p>- Troca de cores do tênis em tempo real</p>
+<p>- Animações suaves na troca do produto</p>
+<p>- Layout totalmente responsivo</p>
+<p>- Estrutura organizada com Header, Sections e Footer</p>
+<p>- 3 estilos diferentes de visual (Minimalista, Colorido e Dark Mode)</p>
 
-Código limpo e organizado
+<br>
 
-🛠 Tecnologias
+<h2>📌 Como acessar</h2>
+Você pode visualizar o projeto <a href="SEU-LINK-DO-GITHUB-PAGES" target="_blank">clicando aqui</a> ✅
 
-HTML5
+<br><br><br>
 
-CSS3
+<h2>💡 Contribuições e Feedback</h2>
+<p>Sugestões são sempre bem-vindas!  
+Se quiser contribuir, deixar ideias ou relatar melhorias, basta abrir uma issue ou entrar em contato comigo.</p>
 
-JavaScript (DOM Manipulation)
+<br>
 
-Google Fonts
+<h1>🚀 Obrigado por visitar! 😊</h1>
 
-📸 Preview
-
-(Adicione aqui o print da sua landing page)
-
-🚀 Como usar
-
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-📂 Estrutura do Projeto
-/
-│── index.html
-│── styles.css
-│── scripts.js
-└── img/
-     ├── logo.png
-     ├── nike1.png
-     ├── nike2.png
-     └── nike3.png
-
-📄 Licença
-
-Este projeto é apenas para fins educacionais e de portfólio.
-Não é afiliado à Nike.
